@@ -7,8 +7,9 @@
 
 
 <hr />
-
+<!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" height="200" />
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhunkumar&show_icons=true&theme=radical)
 
